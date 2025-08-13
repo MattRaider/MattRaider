@@ -4,7 +4,7 @@ I am an italian :it: highschool student, the only reason I am learning to code :
 
 I thought that it would be better suited for me Javascript, but i hate it and I am loving c++ soo... fuck Javascript (for now...).
 
-I also like to do some pixelart 🎨 in my free time, but I think both of them will never become my work, because I will probably work in the mylitary 🪖, I am already working on it too.
+I also like to do some pixelart 🎨 in my free time, but I think both of them will never become my work, because I will probably work in the military 🪖, I am already working on it too.
 
 you don't need to know my background so stop looking at this README... sho sho.
 
