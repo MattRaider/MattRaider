@@ -1,5 +1,5 @@
 ### Hello individuals 
-*I am here to.... not to bring world peace for shure*
+*I am here to.... not to bring world peace for sure*
 I am an italian :it: highschool student, the only reason I am learning to code :computer: is because of a certain [@Gabriele-Cutrona](https://github.com/Gabriele-Cutrona) and I do not do it for fame or money 💸 **LIKE SOMEBODY ELSE** I know...
 
 I thought that it would be better suited for me Javascript, but i hate it and I am loving c++ soo... fuck Javascript (for now...).
